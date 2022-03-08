@@ -4,7 +4,7 @@
 
 ## Under construction to the next level 🚀
 
-# Clone
+# 💾 Clone
 ```sh
   https://github.com/setxpro/TO-DO.git
 ```
